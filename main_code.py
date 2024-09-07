@@ -25,11 +25,9 @@ def main():
 
     # Exibindo resultados
         
-    print("================\nSeus números são\n================")
-
-    print("Necessidades: R${:,.2f}".format(necessidades))
-    print("Gastos: R${:,.2f}".format(gastos))
-    print("Economias: R${:,.2f}".format(economias))
+    print("R${:,.2f}".format(necessidades))
+    print("R${:,.2f}".format(gastos))
+    print("R${:,.2f}".format(economias))
 
 # Chamando a função principal
-main()
+#main()
