@@ -30,4 +30,4 @@ def main():
     print("R${:,.2f}".format(economias))
 
 # Chamando a função principal
-#main()
+main()
