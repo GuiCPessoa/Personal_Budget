@@ -62,7 +62,7 @@ app_ = Label(frameTop, text="Orçamento", compound=LEFT, padx=5, relief=FLAT, an
 app_.place(x=0, y=0)
 
 # Abrindo imagem
-app_img = Image.open("Personal_Budget/assets/iconLogo.png")
+app_img = Image.open("assets/iconLogo.png")
 app_img = app_img.resize((40, 40))
 app_img = ImageTk.PhotoImage(app_img)
 
