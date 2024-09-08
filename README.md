@@ -15,7 +15,12 @@ This project is a simple personal budget calculator application using Python and
 
 ## How to use
 - Enter your monthly income in the input field.
-- Click the "Calculate" button to view the income distribution into:
-  Necessities (50%)
-  Expenses (30%)
-  Savings (20%)
+- Click the "Calculate" button to view the income distribution into: Necessities (50%), Expenses (30%), Savings (20%)
+
+<center>
+  <img src="https://github.com/user-attachments/assets/345504b3-9c30-4732-85a7-6217ed2f2306" alt="imagem_2024-09-07_222022722" width="200"/>
+</center>
+
+<center>
+  <img src="https://github.com/user-attachments/assets/3881e805-49fd-41e7-84bf-d70219d0e824" alt="imagem_2024-09-07_222048794" width="200"/>
+</center>
